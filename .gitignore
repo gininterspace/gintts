@@ -1,0 +1,62 @@
+# Python virtual environments
+venv/
+env/
+ubuntuenv/
+.venv/
+ENV/
+.uv/
+tts_output/*
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Local development settings
+.local/
+
+# Node.js dependencies (if using JavaScript)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Cache directories
+.cache/
+.npm/
+.yarn/
+
+# Freezed requirements backup
+requirements-backup.txt
