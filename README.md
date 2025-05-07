@@ -1,6 +1,6 @@
-# Vietnamese Text Samples
+# Introduction:
+A simple python application use to text-to-speech using openai API.
 
-This repository contains authentic Vietnamese text samples that demonstrate the language's unique features, including tone marks and literary content.
 
 ## Contents
 
@@ -9,10 +9,8 @@ This repository contains authentic Vietnamese text samples that demonstrate the 
 
 ## Features
 
-- Demonstrates Vietnamese diacritics and tone marks
-- Includes both conversational and literary Vietnamese
-- Provides cultural context through classical Vietnamese literature
-- Can be used for testing text processing, OCR, or TTS applications
+- Provide by GUI and non GUI
+
 
 ## Installation
 
