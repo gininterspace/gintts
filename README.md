@@ -1,5 +1,5 @@
 # Introduction:
-A simple python application use to text-to-speech using openai API.
+A simple Python application that converts text to speech using the OpenAI API.
 
 
 ## Contents
